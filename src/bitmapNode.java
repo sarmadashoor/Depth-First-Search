@@ -1,4 +1,4 @@
-package cs560project;
+package Depthfirstsearch;
 
 public class bitmapNode
 {
