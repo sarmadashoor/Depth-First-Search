@@ -24,7 +24,6 @@ public static boolean continuing ;
 public static char[][][] solutionCharMatrix ;
 
 
-
 //=====================================================================================================
 
 
